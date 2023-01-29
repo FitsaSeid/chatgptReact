@@ -1,8 +1,6 @@
 import React, { useEffect } from 'react'
-import './chatgpt.css'
 import sendIcon from '../assets/send.png'
 import { Helmet } from "react-helmet";
-import './script'
 import bot from '../assets/ChatGPT-Icon.png'
 import user from '../assets/user.png'
 

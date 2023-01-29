@@ -1,5 +1,6 @@
 {
   "name": "chatgpt-react",
+  "homepage": "http://chat.techdotzip.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
